@@ -19,5 +19,8 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+---2018.06.21---
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+1、提交文件总是失败，使用git push -u origin master -f 命令可以清空之前远程仓库，
+把本地仓库完全覆盖到远程仓库
+2、本项目还有许多不完善的地方，静待修缮。。。
